@@ -1,0 +1,79 @@
+html {
+    height: 40%;
+    width: 40;
+}
+
+h2{
+    color: #283618;
+    text-align: center;
+}
+
+h3{
+    color: #153c51;
+    text-align: center;
+}
+
+h4{
+    color: #840d0d;
+    text-align: center;
+}
+
+h5{
+    color:#153c51;
+    text-align: center;
+    font-size: medium;
+}
+
+h6{
+    color: #270435;
+    text-align: center;
+    font-size: medium;
+}
+
+body{
+    background-color: #dda15e;
+    font-family: fantasy;
+}
+
+/* buttons */
+.answerbuttons {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    position: relative;
+    cursor: pointer;
+    transition: 150ms ease;
+}
+
+.sorpresa-gif{
+     height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.yeah{
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bastonate{
+     height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.yuppie{
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.firma{
+    height:200px;
+    display: flex;
+}
